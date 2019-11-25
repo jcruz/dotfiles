@@ -36,6 +36,7 @@ This function should only modify configuration layer settings."
      csv
      go
      osx
+     protobuf
      python
      themes-megapack
      yaml
